@@ -1,40 +1,37 @@
-# Fractol<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjNsZGc0d3hkMW52ZXZvZGtuMDM4czc0M2h5ZzEzZTMxenMzbms1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9P1DbPcBGzFludfD8O/giphy.gif" width="30px">
+# Fractol <img src="https://media1.tenor.com/m/b76qJY92uaQAAAAd/interstellar-tesseract.gif" width="50px">
 <p>
-  This project is pretty straightforward, you have to recode printf. You will learn what is and how to implement variadic functions. Once you validate it, you will reuse this function in your future projects.
+  Discover 2D programming and the psychedelic universe of fractals in this project, using minilibX.
 </p>
 
 
 ## Key concepts:
 <ul>
-For this project, we need to better understand output formatting, variable argument management and type conversion.
-In other words, we need to master string manipulation and formatted output in C.
+This is an introductory project to graphics using the MLX library.
+The important thing here is learning to integrate different libraries with a Makefile and generate some 2D real time graphics with some math basis.
 </ul>
 
 ## Programming concepts:
 <ul>
-<li>Memory Manipulation</li>
-<li>File Handling</li>
-<li>Static Variables</li>
+<li>Fractal generation</li>
+<li>Event Handling and user imput</li>
+<li>Aplied math and algorithms</li>
   </ul>
 
 ## Technologies:
 <ul>
   <li>C</li>
-  <li>GIT</li>
+  <li>MLX</li>
   <li>Makefile</li>
-  <li>File descriptors</li>
-  <li>Variadic functions</li>
 </ul>
 
 ## Skills:
 <ul>
-  <li>algorihms & AI</li>
-  <li>Rigor</li>
+  <li>Imperative programming</li>
+  <li>Graphics</li>
 
 </ul>
 
 ## Soft skills:
 <ul>
-  This project force us to work with libraries and functions externally coded for variadic functions.
-We must be able to read the appropriate manuals, incorporating work done by other people beforehand.
+  This project is specially usefull to get to learn new libraries and tools to our disposal. The hard part is being able to comprehend this new concepts well enough to be able to integrate them in secuence.
 </ul>
