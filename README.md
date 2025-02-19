@@ -33,5 +33,5 @@ The important thing here is learning to integrate different libraries with a Mak
 
 ## Soft skills:
 <ul>
-  This project is specially usefull to get to learn new libraries and tools to our disposal. The hard part is being able to comprehend this new concepts well enough to be able to integrate them in secuence.
+  This project is specially usefull to get to learn new libraries and tools to our disposal. The hard part is being able to comprehend this new concepts well enough to be able to integrate them in secuence. That requires some
 </ul>
